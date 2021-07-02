@@ -4,7 +4,7 @@
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 
-### Hi there 👋
+### 👋 Hello!
 
 A career changer and recent graduate from the Makers Academy 16-week bootcamp. An academic background in Physics, I love solving problems and figuring out how to do things! Whether that be solving kata, creating an app to automate a manual processs or a cryptic crossword. I am looking to put my new developing skills to use in tech for good.
 
