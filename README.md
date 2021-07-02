@@ -6,10 +6,7 @@
 
 ### 👋 Hello!
 
-A career changer and recent graduate from the Makers Academy 16-week bootcamp. An academic background in Physics, I love solving problems and figuring out how to make something work! Whether that be solving kata or a cryptic crossword, creating an app to help manual processs or building something ou. 
-I have spent time exploring what sort of environment I like to work in and growing my skillset.
-I knew I always wanted to do something that used my brain in the way
-
+I am a recent graduate from the Makers Academy 16-week bootcamp and continuing to expand my knowledge of the big wide world of tech!
 
 ### 🌱 I’m currently learning ...
 
@@ -35,7 +32,8 @@ I knew I always wanted to do something that used my brain in the way
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" width="40">  
 </p>
 
-### 📪 Learn more aobut me ...
+### 📪 Follow me ...
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" widht="40">](https://www.linkedin.com/in/flora-davies-2409/)
+
 
