@@ -6,7 +6,9 @@
 
 ### 👋 Hello!
 
-A career changer and recent graduate from the Makers Academy 16-week bootcamp. An academic background in Physics, I love solving problems and figuring out how to do things! Whether that be solving kata, creating an app to automate a manual processs or a cryptic crossword. I am looking to put my new developing skills to use in tech for good.
+A career changer and recent graduate from the Makers Academy 16-week bootcamp. An academic background in Physics, I love solving problems and figuring out how to make something work! Whether that be solving kata or a cryptic crossword, creating an app to help manual processs or building something ou. 
+I have spent time exploring what sort of environment I like to work in and growing my skillset.
+I knew I always wanted to do something that used my brain in the way
 
 
 ### 🌱 I’m currently learning ...
@@ -21,7 +23,7 @@ A career changer and recent graduate from the Makers Academy 16-week bootcamp. A
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/ruby/ruby-original-wordmark.svg" height="40" width="40">
 </p>
 
-### 🧰 I have experience with the following ...
+### 🧰 I have experience with ...
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" height="40" width="40">
@@ -33,4 +35,7 @@ A career changer and recent graduate from the Makers Academy 16-week bootcamp. A
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" height="40" width="40">  
 </p>
 
+### 📪 Learn more aobut me ...
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" widht="40">](https://www.linkedin.com/in/flora-davies-2409/)
 
